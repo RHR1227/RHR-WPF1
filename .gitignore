@@ -1,0 +1,20 @@
+# 编译输出
+bin/
+obj/
+Debug/
+Release/
+
+# VS配置文件
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet包
+packages/
+
+# 日志和临时文件
+*.log
+*.tmp
+*.cache
